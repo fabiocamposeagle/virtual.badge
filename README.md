@@ -1,4 +1,5 @@
 # virtual.badge
 Virtual badge created on the origin track at NLW Hear
 
-![Captura de tela 2021-10-22 171615](https://user-images.githubusercontent.com/62512557/138522019-db1ec67c-ef0a-4ba1-a82c-3c708df5f4d7.jpg)
+![Captura de Tela (893)](https://user-images.githubusercontent.com/62512557/138557928-4a6d89f8-e5a7-4bc0-a641-ff69155f8943.png)
+
